@@ -1,18 +1,4 @@
--- import: fastn
-
--- fastn.package: snehafarkya.github.io/coffee
-favicon: /-/snehafarkya.github.io/coffee/favicon.ico
-
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
-
--- fastn.auto-import: snehafarkya.github.io/coffee/FASTN/ds
--- fastn.auto-import: snehafarkya.github.io/coffee/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- import: fastn 
+-- fastn.package: helloWorld
+-- fastn.dependency: fifthtry.github.io/doc-site
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
